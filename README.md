@@ -31,7 +31,7 @@
 - 소재지, 도로조건, 면적, 거래금액, 건축년도 등
 - 총 10개 column
 
-![image-20210619163203749](C:\Users\jisu\Desktop\portfolio\2018_산업수학\README.assets\image-20210619163203749.png)
+![image-20210619163203749](README.assets/image-20210619163203749.png)
 
 
 
@@ -91,7 +91,7 @@
 
 - 지역적 조건을 선택한 후에는 연면적,대지면적,거래가격,건축년도 4가지로 유사성을 판단한다. 식은 아래와 같다 
 
-    ![img](C:\Users\jisu\Desktop\portfolio\2018_산업수학\README.assets\DRW000053183d51.gif)  
+    ![img](README.assets/DRW000053183d51.gif)  
 
 - 각각의 데이터의 크기가 달라서 표준편차를 통해 정규화를 해준후 가중치를 부여했다.
 
